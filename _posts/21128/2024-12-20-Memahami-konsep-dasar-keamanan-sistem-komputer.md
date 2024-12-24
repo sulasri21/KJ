@@ -14,7 +14,7 @@ Namun, seiring dengan kemudahan yang ditawarkan oleh teknologi, muncul pula berb
 Dalam makalah ini, saya akan membahas berbagai aspek yang berkaitan dengan keamanan sistem komputer, termasuk definisi, jenis-jenis ancaman yang ada, prinsip-prinsip keamanan yang harus diterapkan, serta langkah-langkah yang dapat diambil untuk meningkatkan keamanan. Selain itu, saya juga akan mengulas teknologi keamanan terkini yang dapat membantu organisasi dalam melindungi sistem mereka dari berbagai ancaman.
 Akhir kata, saya mengucapkan terima kasih kepada semua pihak yang telah memberikan dukungan dan kontribusi dalam penyusunan makalah ini. Semoga makalah ini dapat bermanfaat dan menjadi referensi yang berguna dalam memahami konsep dasar keamanan sistem komputer.
 
-
+cghhghjh
 ### Pendahuluan
 
 Dalam beberapa dekade terakhir, perkembangan teknologi informasi telah mengubah cara kita berinteraksi, bekerja, dan berkomunikasi. Dengan kemajuan pesat dalam perangkat keras dan perangkat lunak, serta meningkatnya aksesibilitas internet, sistem komputer telah menjadi alat yang sangat penting dalam berbagai aspek kehidupan. Dari bisnis hingga pendidikan, dari pemerintahan hingga sektor kesehatan, hampir setiap sektor bergantung pada sistem komputer untuk menjalankan operasional sehari-hari. Namun, dengan meningkatnya ketergantungan ini, muncul pula tantangan baru yang berkaitan dengan keamanan data dan informasi. 
